@@ -1,5 +1,7 @@
 # learning-in-activiti
 
+> 2020.5.4 已经合并到[learning-in-series](https://github.com/liangenhao/learning-in-series)，本工程不再更新。
+
 Activiti 学习笔记。
 
 ## 学习笔记目录
